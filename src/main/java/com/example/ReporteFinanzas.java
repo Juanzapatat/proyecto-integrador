@@ -3,7 +3,7 @@ package com.example;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class ReporteFinanzas {
+public class ReporteFinanzas.class {
     
     public static void main(String[] args) {
     ArrayList<String> ReporteFinanzas = new ArrayList<>();
