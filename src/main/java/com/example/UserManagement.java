@@ -84,7 +84,7 @@ public class UserManagement {
                     break;
 
                 default:
-                    System.out.println("Opción no válida. Intente de nuevo.");
+                    System.out.println("Opción no válida. Intente de nuevo.");//
             }
         }
     }
